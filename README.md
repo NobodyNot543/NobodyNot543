@@ -14,7 +14,7 @@
 
 <!-- Sobre mí -->
 ## 👋 Sobre mí
-¡Hola! Soy **[Tu Nombre]**, un apasionado desarrollador con experiencia en [tus habilidades principales, por ejemplo: desarrollo web, aplicaciones móviles, IA, etc.]. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
+¡Hola! Soy **NobodyNot543**, un apasionado desarrollador con experiencia en [tus habilidades principales, por ejemplo: desarrollo web, aplicaciones móviles, IA, etc.]. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
 ---
 
@@ -35,9 +35,9 @@
 <!-- Estadísticas de GitHub -->
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NobodyNot543&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyNot543&theme=radical" alt="Racha de GitHub" />
 </div>
 
 ---
