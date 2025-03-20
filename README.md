@@ -14,7 +14,7 @@
 
 <!-- Sobre mí -->
 ## 👋 Sobre mí
-¡Hola! Soy **NobodyNot543**, un desarrollador **Full Stack Semi-Senior** con más de [X años] de experiencia en la creación de aplicaciones web y soluciones tecnológicas. Me especializo en tecnologías modernas como **Astro**, **Tailwind**, **React**, y **TypeScript**, pero también tengo un sólido conocimiento en **Python**, **PHP**, y desarrollo web tradicional (**HTML**, **CSS**, **JavaScript**). 
+¡Hola! Soy **NobodyNot543**, un desarrollador **Semi-Senior** con más de 5 años de XP en la creación de aplicaciones web y soluciones tecnológicas. Me especializo en tecnologías modernas como **Astro**, **Tailwind**, **React**, y **TypeScript**, pero también tengo un sólido conocimiento en **Python**, **PHP**, y desarrollo web tradicional (**HTML**, **CSS**, **JavaScript**). 
 
 Mi enfoque es construir aplicaciones **escalables**, **eficientes** y **fáciles de mantener**. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer soluciones de alta calidad.
 
