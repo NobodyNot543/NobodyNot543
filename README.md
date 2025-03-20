@@ -52,12 +52,12 @@ Mi enfoque es construir aplicaciones **escalables**, **eficientes** y **fáciles
 
 <!-- Experiencia -->
 ## 💼 Experiencia
-- **Desarrollador Full Stack Semi-Senior** en [Nombre de la empresa o proyecto] (desde [año]).
+- **Desarrollador Full Stack Semi-Senior** en **Simpplee** (desde 2023).
   - Responsable del desarrollo y mantenimiento de aplicaciones web escalables.
   - Implementación de soluciones modernas con **React**, **TypeScript**, y **Astro**.
   - Colaboración en equipos ágiles para entregar proyectos en tiempo y forma.
 
-- **Desarrollador Frontend** en [Nombre de la empresa o proyecto] (de [año] a [año]).
+- **Desarrollador Frontend** en **Simpplee** (de 2022 a 2025).
   - Creación de interfaces de usuario responsivas con **Tailwind CSS** y **JavaScript**.
   - Optimización del rendimiento de aplicaciones web.
 
