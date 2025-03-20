@@ -7,7 +7,7 @@
 
 <!-- Imagen de perfil -->
 <div align="center">
-  <img src="https://i.imgur.com/your-image-url.png" alt="Tu imagen de perfil" width="200" style="border-radius: 50%;"/>
+  <img src="https://i.pinimg.com/736x/37/90/b6/3790b609e872389fa673dc19479c1b78.jpg" alt="Tu imagen de perfil" width="200" style="border-radius: 50%;"/>
 </div>
 
 ---
