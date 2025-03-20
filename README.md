@@ -7,7 +7,7 @@
 
 <!-- Imagen de perfil -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/37/90/b6/3790b609e872389fa673dc19479c1b78.jpg" alt="Tu imagen de perfil" width="100%" style="border-radius: 50%;"/>
+  <img src="https://i.pinimg.com/736x/0c/14/1e/0c141e62dceed6a02d5a836a5b24fc5c.jpg" alt="Tu imagen de perfil" width="100%" style="border-radius: 50%;"/>
 </div>
 
 ---
