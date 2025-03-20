@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=¡Hola%2C+Soy+[Tu+Nombre]!;Desarrollador+%7C+Diseñador+%7C+Apasionado;Bienvenido+a+mi+perfil+💻" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=¡Hola%2C+Soy+NobodyNot543!;Desarrollador+Full+Stack+%7C+Apasionado+por+el+código;Bienvenido+a+mi+perfil+💻" alt="Título animado" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 <!-- Sobre mí -->
 ## 👋 Sobre mí
-¡Hola! Soy **NobodyNot543**, un apasionado desarrollador con experiencia en [tus habilidades principales, por ejemplo: desarrollo web, aplicaciones móviles, IA, etc.]. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
+¡Hola! Soy **NobodyNot543**, un desarrollador semi-senior apasionado por crear soluciones innovadoras y eficientes. Me especializo en tecnologías modernas como **Astro**, **Tailwind**, **React**, y **TypeScript**, pero también tengo experiencia en **Python**, **PHP**, y desarrollo web tradicional (**HTML**, **CSS**, **JavaScript**). Siempre estoy aprendiendo y explorando nuevas herramientas para mejorar mis habilidades.
 
 ---
 
@@ -24,10 +24,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 </div>
 
 ---
@@ -38,15 +40,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NobodyNot543&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NobodyNot543&theme=radical" alt="Racha de GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyNot543&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 ---
 
 <!-- Proyectos destacados -->
 ## 🚀 Proyectos destacados
-- **[Nombre del Proyecto 1](https://github.com/tu-usuario/repositorio-1)** - Descripción breve del proyecto.
-- **[Nombre del Proyecto 2](https://github.com/tu-usuario/repositorio-2)** - Descripción breve del proyecto.
-- **[Nombre del Proyecto 3](https://github.com/tu-usuario/repositorio-3)** - Descripción breve del proyecto.
+- **[Nombre del Proyecto 1](https://github.com/NobodyNot543/repositorio-1)** - Descripción breve del proyecto.
+- **[Nombre del Proyecto 2](https://github.com/NobodyNot543/repositorio-2)** - Descripción breve del proyecto.
+- **[Nombre del Proyecto 3](https://github.com/NobodyNot543/repositorio-3)** - Descripción breve del proyecto.
 
 ---
 
