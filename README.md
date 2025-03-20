@@ -1,22 +1,20 @@
 <!-- Banner animado -->
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com
-    font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=¡Hola%2C+Soy+NobodyNot543!;Desarrollador+Semi
-    Senior;Especializado+en+Web+💻" alt="Título animado" /> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=¡Hola%2C+Soy+NobodyNot543!;Desarrollador+Full+Stack+Semi-Senior;Especializado+en+Soluciones+Web+💻" alt="Título animado" />
 </div>
 
 ---
 
 <!-- Imagen de perfil -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/0c/14/1e/0c141e62dceed6a02d5a836a5b24fc5c.jpg" alt="Tu imagen de perfil" width="100%" style="border-radius: 50%;"/>
+  <img src="https://i.pinimg.com/736x/0c/14/1e/0c141e62dceed6a02d5a836a5b24fc5c.jpg" alt="Tu imagen de perfil" width="200" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 10px #00FFFF;" />
 </div>
 
 ---
 
 <!-- Sobre mí -->
 ## 👋 Sobre mí
-¡Hola! Soy **NobodyNot543**, un desarrollador **Semi-Senior** con más de 5 años de XP en la creación de aplicaciones web y soluciones tecnológicas. Me especializo en tecnologías modernas como **Astro**, **Tailwind**, **React**, y **TypeScript**, pero también tengo un sólido conocimiento en **Python**, **PHP**, y desarrollo web tradicional (**HTML**, **CSS**, **JavaScript**). 
+¡Hola! Soy **NobodyNot543**, un desarrollador **Full Stack Semi-Senior** con más de **5 años de experiencia** en la creación de aplicaciones web y soluciones tecnológicas. Me especializo en tecnologías modernas como **Astro**, **Tailwind**, **React**, y **TypeScript**, pero también tengo un sólido conocimiento en **Python**, **PHP**, y desarrollo web tradicional (**HTML**, **CSS**, **JavaScript**). 
 
 Mi enfoque es construir aplicaciones **escalables**, **eficientes** y **fáciles de mantener**. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para ofrecer soluciones de alta calidad.
 
